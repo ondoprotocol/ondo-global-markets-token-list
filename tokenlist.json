@@ -1,8 +1,8 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2025-08-26T17:31:39.301513Z",
+    "timestamp": "2026-01-20T00:00:00.000000Z",
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     },
@@ -2237,6 +2237,17 @@
             ]
         },
         {
+            "chainId": 1,
+            "address": "0x510Dd21055188Eda378714DE3bb5591Ffa0CC468",
+            "name": "BitGo Holdings (Ondo Tokenized)",
+            "symbol": "BTGOon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/btgoon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
             "chainId": 56,
             "address": "0x1f8955E640Cbd9abc3C3Bb408c9E2E1f5F20DfE6",
             "name": "Ondo U.S. Dollar Token",
@@ -4454,6 +4465,17 @@
             "symbol": "XYZon",
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/xyzon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x5fA699c0c1319b8D86489AF77dFDe4Fa97B47DF8",
+            "name": "BitGo Holdings (Ondo Tokenized)",
+            "symbol": "BTGOon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/btgoon_160x160.png",
             "tags": [
                 "ondo"
             ]
