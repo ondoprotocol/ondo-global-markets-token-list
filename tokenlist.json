@@ -2,7 +2,7 @@
     "name": "Ondo Tokenized Stocks List",
     "timestamp": "2026-03-10T22:09:57.000000Z",
     "version": {
-        "major": 5,
+        "major": 6,
         "minor": 0,
         "patch": 0
     },
@@ -2246,6 +2246,17 @@
             "tags": [
                 "ondo"
             ]
+        },
+        {
+          "chainId": 1,
+          "address": "0xECABE1Ff8a9e1dC55899cf58dac8497ecE5Ae84c",
+          "name": "Strategy Stretch Preferred (Ondo Tokenized)",
+          "symbol": "STRCon",
+          "decimals": 18,
+          "logoURI": "https://cdn.ondo.finance/tokens/logos/strcon_160x160.png",
+          "tags": [
+              "ondo"
+          ]
         },
         {
             "chainId": 56,
@@ -5821,6 +5832,17 @@
             "tags": [
                 "ondo"
             ]
+        },
+        {
+          "chainId": 56,
+          "address": "0x71E9dc9DEbc18650BD2342B93623B88C2aD00c89",
+          "name": "Strategy Stretch Preferred (Ondo Tokenized)",
+          "symbol": "STRCon",
+          "decimals": 18,
+          "logoURI": "https://cdn.ondo.finance/tokens/logos/strcon_160x160.png",
+          "tags": [
+              "ondo"
+          ]
         }
     ]
 }
