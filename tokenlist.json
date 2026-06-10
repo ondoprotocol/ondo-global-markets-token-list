@@ -9124,28 +9124,6 @@
         },
         {
             "chainId": 1,
-            "address": "0x94912D9f8ef1108CA605A6F5331a0dA0294Adfe0",
-            "name": "ASE Technology Holding (Ondo Tokenized)",
-            "symbol": "ASXon",
-            "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/asxon_160x160.png",
-            "tags": [
-                "ondo"
-            ]
-        },
-        {
-            "chainId": 56,
-            "address": "0xB695fAe94eBCA7b873aB139856CeebC68C5098CE",
-            "name": "ASE Technology Holding (Ondo Tokenized)",
-            "symbol": "ASXon",
-            "decimals": 18,
-            "logoURI": "https://cdn.ondo.finance/tokens/logos/asxon_160x160.png",
-            "tags": [
-                "ondo"
-            ]
-        },
-        {
-            "chainId": 1,
             "address": "0xdB5a8f5B4C17f2Ee2e7192A150687E48eB3C415d",
             "name": "Roundhill Memory ETF (Ondo Tokenized)",
             "symbol": "DRAMon",
