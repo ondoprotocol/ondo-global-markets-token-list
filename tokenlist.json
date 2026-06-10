@@ -1,6 +1,6 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2026-06-10T23:28:40.907816Z",
+    "timestamp": "2026-06-10T23:38:28.069815Z",
     "version": {
         "major": 8,
         "minor": 0,
@@ -9646,6 +9646,28 @@
             "symbol": "YEARon",
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/yearon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x141196732cE4BB20010E4149704C0F278d5d3CEA",
+            "name": "Strive Preferred (Ondo Tokenized)",
+            "symbol": "SATAon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/sataon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x732823512Ba98D1BCDE471ca023ee2A0C9f117b7",
+            "name": "Strive Preferred (Ondo Tokenized)",
+            "symbol": "SATAon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/sataon_160x160.png",
             "tags": [
                 "ondo"
             ]
