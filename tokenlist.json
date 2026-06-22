@@ -1,8 +1,8 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2026-06-10T23:38:28.069815Z",
+    "timestamp": "2026-06-22T22:00:33.735943Z",
     "version": {
-        "major": 8,
+        "major": 9,
         "minor": 0,
         "patch": 0
     },
@@ -11,6 +11,10 @@
         "ondo": {
             "name": "Tokenized by Ondo",
             "description": "Asset officially issued by Ondo"
+        },
+        "24-7-tradable": {
+            "name": "24/7 Trading",
+            "description": "Can be traded around the clock, including weekends and holidays"
         }
     },
     "tokens": [
@@ -583,7 +587,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/crclon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -704,7 +709,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/googlon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -902,7 +908,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/nvdaon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -957,7 +964,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/tslaon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -1111,7 +1119,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/qqqon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -1122,7 +1131,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/spyon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -2508,7 +2518,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/crclon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -2651,7 +2662,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/googlon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -3036,7 +3048,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/nvdaon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -3168,7 +3181,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/qqqon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -3289,7 +3303,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/spyon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
@@ -3333,7 +3348,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/tslaon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "24-7-tradable"
             ]
         },
         {
