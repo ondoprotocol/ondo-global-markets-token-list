@@ -9671,6 +9671,28 @@
             "tags": [
                 "ondo"
             ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+            "name": "Ondo U.S. Dollar Yield",
+            "symbol": "USDY",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/usdy_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x608593d17A2decBbc4399e4185bE4922F97eD32E",
+            "name": "Ondo U.S. Dollar Yield",
+            "symbol": "USDY",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/usdy_160x160.png",
+            "tags": [
+                "ondo"
+            ]
         }
     ]
 }
