@@ -1,8 +1,8 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2026-07-01T02:01:16.954731Z",
+    "timestamp": "2026-07-09T17:23:52.003722Z",
     "version": {
-        "major": 9,
+        "major": 10,
         "minor": 0,
         "patch": 0
     },
@@ -9690,6 +9690,28 @@
             "symbol": "USDY",
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/usdy_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xc0fE36F4FFBDf1B38E192215073590a68f9A2Af7",
+            "name": "SK Hynix (Ondo Tokenized)",
+            "symbol": "SKHYon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/skhyon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x4268F2Bfb23A7496504AA5eD1Ee325248586299F",
+            "name": "SK Hynix (Ondo Tokenized)",
+            "symbol": "SKHYon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/skhyon_160x160.png",
             "tags": [
                 "ondo"
             ]
