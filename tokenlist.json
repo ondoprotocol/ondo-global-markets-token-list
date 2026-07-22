@@ -1,8 +1,8 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2026-07-09T17:23:52.003722Z",
+    "timestamp": "2026-07-22T16:16:19.638788Z",
     "version": {
-        "major": 10,
+        "major": 11,
         "minor": 0,
         "patch": 0
     },
@@ -9712,6 +9712,72 @@
             "symbol": "SKHYon",
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/skhyon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x8C2feFb7a5C26D44aA66Ae3023D96Af2EbAcAEBD",
+            "name": "iShares Systematic Bond ETF (Ondo Tokenized)",
+            "symbol": "SYSBon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/sysbon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xeBe1408A7cce4f38dE15467e5139C3D82E4641F8",
+            "name": "iShares Systematic Bond ETF (Ondo Tokenized)",
+            "symbol": "SYSBon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/sysbon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x806Adf5Ef67EF4032Bcc8444f96ec777D2F43f66",
+            "name": "iShares Securitized Income Active ETF (Ondo Tokenized)",
+            "symbol": "SECUon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/secuon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xB0D7D4b65A654d43F91272Bb94E011Ce6812A2eF",
+            "name": "iShares Securitized Income Active ETF (Ondo Tokenized)",
+            "symbol": "SECUon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/secuon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x67Eb4e3f674484CA980de8eB953AA435De2F23cb",
+            "name": "iShares High Yield Corporate Bond BuyWrite Strategy ETF (Ondo Tokenized)",
+            "symbol": "HYGWon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/hygwon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x85b53A9344884ae428E0E15f05A1819D280D4bE7",
+            "name": "iShares High Yield Corporate Bond BuyWrite Strategy ETF (Ondo Tokenized)",
+            "symbol": "HYGWon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/hygwon_160x160.png",
             "tags": [
                 "ondo"
             ]
