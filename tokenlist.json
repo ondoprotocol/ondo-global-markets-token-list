@@ -1,8 +1,8 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2026-07-22T16:16:19.638788Z",
+    "timestamp": "2026-09-08T19:50:37Z",
     "version": {
-        "major": 11,
+        "major": 12,
         "minor": 0,
         "patch": 0
     },
@@ -9778,6 +9778,182 @@
             "symbol": "HYGWon",
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/hygwon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xe109dFbF450eC2b9944900830b8DA22EaA59F1A3",
+            "name": "iShares High Yield Systematic Bond ETF (Ondo Tokenized)",
+            "symbol": "HYDBon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/hydbon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x97B2FD5fC2F3e0dfD72D45734e360961528B6c63",
+            "name": "iShares High Yield Systematic Bond ETF (Ondo Tokenized)",
+            "symbol": "HYDBon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/hydbon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x6830f7BBFD274e393a32846918DA9De210879AE4",
+            "name": "iShares Broad USD High Yield Corporate Bond ETF (Ondo Tokenized)",
+            "symbol": "USHYon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/ushyon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xc992e5f8dA1b99cB941B0a259bE9014CFfE89Ccf",
+            "name": "iShares Broad USD High Yield Corporate Bond ETF (Ondo Tokenized)",
+            "symbol": "USHYon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/ushyon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x7E37ac5d67ebe99851193CD036D7725b6730c53D",
+            "name": "iShares Short Duration Bond Active ETF (Ondo Tokenized)",
+            "symbol": "NEARon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/nearon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x031d85943ba7ca0304323195e7086a76c35366fB",
+            "name": "iShares Short Duration Bond Active ETF (Ondo Tokenized)",
+            "symbol": "NEARon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/nearon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x36B90aDcDC99Be31BF39A3c031288bAa0B457E10",
+            "name": "Alphabet Inc. Class C (Ondo Tokenized)",
+            "symbol": "GOOGon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/googon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x817f1f6780F99BCaAc394A59CB0261962df5Da8b",
+            "name": "Alphabet Inc. Class C (Ondo Tokenized)",
+            "symbol": "GOOGon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/googon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xDaA3b81a3ACFcB60b875eBA1D26852376BC38486",
+            "name": "Recursion Pharmaceuticals (Ondo Tokenized)",
+            "symbol": "RXRXon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/rxrxon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xCB6D74afF24AFc94514727eE0FCDA6bb6B64f3F9",
+            "name": "Recursion Pharmaceuticals (Ondo Tokenized)",
+            "symbol": "RXRXon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/rxrxon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x7E95779D2d7B4a654A4ac80cB6423aE8998Cf1e7",
+            "name": "Hertz Global Holdings (Ondo Tokenized)",
+            "symbol": "HTZon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/htzon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xB18C6A83490DDDbc9A83b011173b5B2Fb5dC1272",
+            "name": "Hertz Global Holdings (Ondo Tokenized)",
+            "symbol": "HTZon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/htzon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x613518b520241f90c3E023Bb6006c63A5019CA7B",
+            "name": "Wendy's (Ondo Tokenized)",
+            "symbol": "WENon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/wenon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x79ed7f4d9668E8e7AaadD12A711d19064840B9A5",
+            "name": "Wendy's (Ondo Tokenized)",
+            "symbol": "WENon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/wenon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x4554ad55ccA5e7CB97B77813f486aAf6D4D9AB62",
+            "name": "C3.ai (Ondo Tokenized)",
+            "symbol": "AIon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/aion_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xBb8c10f7E828E3279df8CC3397A5212F845C509b",
+            "name": "C3.ai (Ondo Tokenized)",
+            "symbol": "AIon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/aion_160x160.png",
             "tags": [
                 "ondo"
             ]
