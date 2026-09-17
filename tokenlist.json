@@ -11,6 +11,10 @@
         "ondo": {
             "name": "Tokenized by Ondo",
             "description": "Asset officially issued by Ondo"
+        },
+        "oip": {
+            "name": "Portfolio by Ondo",
+            "description": "Asset officially issued by Ondo"
         }
     },
     "tokens": [
@@ -9966,7 +9970,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/mag7xon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -9977,7 +9982,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/mag7xon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -9988,7 +9994,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/brainon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -9999,7 +10006,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/brainon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -10010,7 +10018,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/yld5on_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -10021,7 +10030,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/yld5on_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -10032,7 +10042,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/yld8on_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -10043,7 +10054,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/yld8on_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -10054,7 +10066,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/blkhion_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -10065,7 +10078,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/blkhion_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -10076,7 +10090,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/blkdigon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -10087,7 +10102,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/blkdigon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -10098,7 +10114,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/blkgrwon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         },
         {
@@ -10109,7 +10126,8 @@
             "decimals": 18,
             "logoURI": "https://cdn.ondo.finance/tokens/logos/blkgrwon_160x160.png",
             "tags": [
-                "ondo"
+                "ondo",
+                "oip"
             ]
         }
     ]
