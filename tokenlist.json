@@ -1,8 +1,8 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2026-10-27T00:00:00Z",
+    "timestamp": "2026-11-05T00:00:00Z",
     "version": {
-        "major": 14,
+        "major": 15,
         "minor": 0,
         "patch": 0
     },
@@ -10656,6 +10656,54 @@
             "logoURI": "https://cdn.ondo.finance/tokens/logos/caion_160x160.png",
             "tags": [
                 "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x15E9752e8E41aDB5F4831DbF46Dd1CA2488423e1",
+            "name": "Ondo US 500 Capital Shielded Portfolio",
+            "symbol": "SPYSHIELDon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/spyshieldon_160x160.png",
+            "tags": [
+                "ondo",
+                "oip"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x5821C1EcbC33341709EF1Dd01FE1A8145BC248A8",
+            "name": "Ondo US 500 Capital Shielded Portfolio",
+            "symbol": "SPYSHIELDon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/spyshieldon_160x160.png",
+            "tags": [
+                "ondo",
+                "oip"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x6F866BdEe4B603bc907098ad596552a7AF0f1de3",
+            "name": "Ondo Big 5 Core Allocation Portfolio",
+            "symbol": "BIG5on",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/big5on_160x160.png",
+            "tags": [
+                "ondo",
+                "oip"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xbA4530bf12EE2741154685D857B99FEe2B9b538B",
+            "name": "Ondo Big 5 Core Allocation Portfolio",
+            "symbol": "BIG5on",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/big5on_160x160.png",
+            "tags": [
+                "ondo",
+                "oip"
             ]
         }
     ]
