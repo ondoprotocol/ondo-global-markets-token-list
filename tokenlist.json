@@ -1,8 +1,8 @@
 {
     "name": "Ondo Tokenized Stocks List",
-    "timestamp": "2026-11-05T00:00:00Z",
+    "timestamp": "2026-11-16T00:00:00Z",
     "version": {
-        "major": 15,
+        "major": 16,
         "minor": 0,
         "patch": 0
     },
@@ -10704,6 +10704,138 @@
             "tags": [
                 "ondo",
                 "oip"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x43a0943893474F246aA58e9921d975aD60Adee59",
+            "name": "Anthropic (Ondo Tokenized)",
+            "symbol": "ANTon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/anton_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x343ccbc9f8409f862008b7abebFFf20ECf935C75",
+            "name": "Anthropic (Ondo Tokenized)",
+            "symbol": "ANTon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/anton_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x6C190f0b8f7525244C6dcf0363A1241a99509101",
+            "name": "Take-Two Interactive Software (Ondo Tokenized)",
+            "symbol": "TTWOon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/ttwoon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xf095607F8aB6F8f813a1F93F70047ec2f0A8bd85",
+            "name": "Take-Two Interactive Software (Ondo Tokenized)",
+            "symbol": "TTWOon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/ttwoon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x7FA8725e25b0C005a22499461AAA3f1b1C2962FE",
+            "name": "Franklin US Equity Bitcoin DRIP Index ETF (Ondo Tokenized)",
+            "symbol": "FBEQon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/fbeqon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x2429a99b26630F3b71799ECC8d007390CaE95273",
+            "name": "Franklin US Equity Bitcoin DRIP Index ETF (Ondo Tokenized)",
+            "symbol": "FBEQon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/fbeqon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x3CCF4f79B5D6Aceb786c20F74B8DF07C7e14160F",
+            "name": "Franklin US Equity Index ETF (Ondo Tokenized)",
+            "symbol": "USPXon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/uspxon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x894866bde9335bef347784E66ECB9BF0E942ffC0",
+            "name": "Franklin US Equity Index ETF (Ondo Tokenized)",
+            "symbol": "USPXon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/uspxon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xf1F558C95B14Ad95D4da1822770Dc4Ff0f1BCc30",
+            "name": "Franklin US Core Bond ETF (Ondo Tokenized)",
+            "symbol": "FLCBon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/flcbon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xeA62BA54EA274b090C7BdECC3E74910Edb5a7E77",
+            "name": "Franklin US Core Bond ETF (Ondo Tokenized)",
+            "symbol": "FLCBon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/flcbon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xfeebbDDDA97D26605050e85099E697fd9567D597",
+            "name": "Franklin US Treasury Bond ETF (Ondo Tokenized)",
+            "symbol": "FLGVon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/flgvon_160x160.png",
+            "tags": [
+                "ondo"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xc939B2B442E79C6240a4F7C8b6CF6D71EC31bB2B",
+            "name": "Franklin US Treasury Bond ETF (Ondo Tokenized)",
+            "symbol": "FLGVon",
+            "decimals": 18,
+            "logoURI": "https://cdn.ondo.finance/tokens/logos/flgvon_160x160.png",
+            "tags": [
+                "ondo"
             ]
         }
     ]
